@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<info>
+	<id>recognition</id>
+	<name>Mana Recognition</name>
+	<version>1.1.0</version>
+	<namespace>Recognition</namespace>
+	<category>tools</category>
+	<category>files</category>
+	<website>https://manaandisheh.com/</website>
+    	<repository>https://github.com/hoseinparsa/owncloud_app</repository>
+    	<documentation>https://github.com/hoseinparsa/owncloud_app</documentation>
+	<licence>AGPL</licence>
+	<author>hosein parsa</author>
+	<summary>MANA presence operation for tagging file</summary>
+	<description>This program has been designed by Hossein Parsa and commissioned by Mana Company for the artificial intelligence system. This program can tag your image with data from Mana face recognition system.</description>
+	<bugs>https://github.com/hoseinparsa/owncloud_app</bugs>
+    	
+	<dependencies>
+        	<owncloud min-version="9.0" max-version="10" />
+        	<nextcloud min-version="12" max-version="16" />
+    	</dependencies>
+
+</info>
