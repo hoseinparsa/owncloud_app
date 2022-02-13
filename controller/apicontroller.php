@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @author Christoph Wurst <hosin.parsa@yahoo.com>
+ * @author hosein parsa <hosin.parsa@yahoo.com>
  */
 
 namespace OCA\Recognition\Controller;
